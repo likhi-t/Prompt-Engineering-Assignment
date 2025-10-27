@@ -1,0 +1,10 @@
+pandas
+requests
+langchain
+langchain-core
+pydantic
+langchain-chroma
+langchain-ollama
+langchain-community
+langchain-classic
+rank-bm25
