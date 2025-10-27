@@ -205,3 +205,6 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+chroma_log_db/
+rag_documents.pkl
+\n# RAG Data\nchroma_log_db_v4/\nrag_documents_v4.pkl
